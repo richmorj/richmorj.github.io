@@ -1,1 +1,1 @@
-(ambel)[https://github.com/richmorj/ambel/]
+[ambel](https://github.com/richmorj/ambel/)
